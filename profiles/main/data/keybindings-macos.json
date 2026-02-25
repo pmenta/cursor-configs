@@ -1,0 +1,11 @@
+// Coloque as suas associações de teclas neste arquivo para substituir os padrões
+[
+ {
+  "key": "cmd+i",
+  "command": "composerMode.agent"
+ },
+ {
+  "key": "ctrl+alt+l",
+  "command": "composerMode.chat"
+ }
+]
